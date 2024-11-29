@@ -24,7 +24,7 @@ global.packname = 'Senna┃ᴮᴼᵀ'
 global.author = '@fg98' 
 
 //--info FG
-global.botName = 'Senna'
+global.botName = 'M4JESTIC'
 global.fgig = 'https://instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
